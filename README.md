@@ -30,6 +30,7 @@
 - Update store with trailer video data
 - Emeded the youtube video and make it auto play
 - Tailwind calls to make main container awesome
+- Build secondary component
 
 # Features
 
